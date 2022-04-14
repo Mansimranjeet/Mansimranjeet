@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mansimranjeet
+- 👀 I’m interested in constructing programs that will excel humanity towards a very bright future.
+- 🌱 I’m currently learning Python and have build many projects using Java, HTML, JavaScript.
+- 💞️ I’m looking to collaborate on programming innotative solutions to improtant and challenging problems.
